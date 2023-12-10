@@ -9,8 +9,8 @@ int main()
 		if(a[i]>=-5 && a[i]<=10)
 		{
 			count++;
-			std::cout << count;
 		}
+		std::cout << count;
 	}
 	return 0;
 }
